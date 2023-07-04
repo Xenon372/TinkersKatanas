@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:tool",
+  "stat_provider": "tconstruct:melee_harvest",
+  "break_blocks_in_creative": false,
+  "group": "tinkers_katanas:tinkers_katanas",
+  "color_handler": "tconstruct:tool"
+}

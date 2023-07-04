@@ -1,0 +1,49 @@
+{
+  "translation_key": "item.tinkers_katanas.katana",
+  "icon": {
+    "item": "tinkers_katanas:katana",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": ["tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra", "tconstruct:ui_render#large", "tconstruct:ui_render#extra_large"]
+    }
+  },
+  "sortIndex": 9,
+  "input_slots": [
+    {
+      "icon": "tconstruct:broad_blade",
+      "translation_key": "item.tconstruct.broad_blade",
+      "x": 45,
+      "y": 26,
+      "filter": {
+        "item": "tconstruct:broad_blade"
+      }
+    },
+    {
+      "icon": "tconstruct:round_plate",
+      "translation_key": "item.tconstruct.round_plate",
+      "x": 7,
+      "y": 62,
+      "filter": {
+        "item": "tconstruct:round_plate"
+      }
+    },
+    {
+      "icon": "tconstruct:tool_handle",
+      "translation_key": "item.tconstruct.tool_handle",
+      "x": 25,
+      "y": 46,
+      "filter": {
+        "item": "tconstruct:tool_handle"
+      }
+    },
+    {
+      "icon": "tconstruct:tough_handle",
+      "translation_key": "item.tconstruct.tough_handle",
+      "x": 45,
+      "y": 46,
+      "filter": {
+        "item": "tconstruct:tough_handle"
+      }
+    }
+  ]
+}

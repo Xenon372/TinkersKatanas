@@ -1,0 +1,29 @@
+modLoader="lowcodefml"
+loaderVersion="[40,)"
+issueTrackerURL=""
+license="MIT"
+[[mods]]
+    modId="tinkers_katanas"
+    version="1.0.0"
+    displayName="Tinkers' Katanas"
+    description='''
+    A fully playable Thing Pack for Tinkers' Construct. Includes a new weapon.
+    '''
+[[dependencies.tinkers_katanas]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40.1.40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tinkers_katanas]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3.6.3,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tinkers_katanas]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="[0.4.2,)"
+    ordering="NONE"
+    side="BOTH"
