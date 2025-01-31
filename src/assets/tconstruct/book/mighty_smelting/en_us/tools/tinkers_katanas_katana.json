@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_katanas:katana",
+  "text": [
+    { "text": "The cooler variant of a sword." }
+  ],
+  "properties": [
+    "Sweeping attacks",
+    "Moderate speed, low damage",
+    "Looks really cool"
+  ]
+}
