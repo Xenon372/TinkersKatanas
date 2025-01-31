@@ -2,30 +2,36 @@
   "loader": "tconstruct:tool",
   "parent": "forge:item/default-tool",
   "textures": {
-    "top_blade":        "tinkers_katanas:item/tool/katana/top_blade",
-    "broken_top_blade": "tinkers_katanas:item/tool/katana/broken_top_blade",
-    "bottom_blade": "tinkers_katanas:item/tool/katana/bottom_blade",
-    "broken_bottom_blade": "tinkers_katanas:item/tool/katana/broken_bottom_blade",
-    "guard":         "tinkers_katanas:item/tool/katana/guard",
-    "handle":       "tinkers_katanas:item/tool/katana/handle",
+    "top_blade":  "tinkers_katanas:item/tool/katana/top_blade",
+    "bottom_blade":  "tinkers_katanas:item/tool/katana/bottom_blade",
+    "guard":  "tinkers_katanas:item/tool/katana/guard",
+    "handle":  "tinkers_katanas:item/tool/katana/handle",
     
-    "large_top_blade":        "tinkers_katanas:item/tool/katana/large/top_blade",
-    "large_broken_top_blade": "tinkers_katanas:item/tool/katana/large/broken_top_blade",
-    "large_bottom_blade": "tinkers_katanas:item/tool/katana/large/bottom_blade",
-    "large_broken_bottom_blade": "tinkers_katanas:item/tool/katana/large/broken_bottom_blade",
-    "large_guard":         "tinkers_katanas:item/tool/katana/large/guard",
-    "large_handle":       "tinkers_katanas:item/tool/katana/large/handle"
+    "large_top_blade":  "tinkers_katanas:item/tool/katana/large/top_blade",
+    "large_bottom_blade":  "tinkers_katanas:item/tool/katana/large/bottom_blade",
+    "large_guard":  "tinkers_katanas:item/tool/katana/large/guard",
+    "large_handle":  "tinkers_katanas:item/tool/katana/large/handle"
+  },
+  "modifier_roots": {
+	  "small": [ "tinkers_katanas:item/tool/katana/modifiers/" ],
+	  "large": [ "tinkers_katanas:item/tool/katana/large/modifiers/" ]
   },
   "large": true,
-  "large_offset": [-2, 2],
+  "large_offset": [2, 3],
   "parts": [
-    { "name": "handle", "index": 1 },
-    { "name": "top_blade",   "index": 0, "broken": "broken_top_blade" },
-    { "name": "bottom_blade", "index": 3, "broken": "broken_bottom_blade" },
-    { "name": "guard",  "index": 2 }
+    { "name": "top_blade",   "index": 0 },
+    { "name": "bottom_blade", "index": 1 },
+    { "name": "guard",  "index": 2 },
+    { "name": "handle", "index": 3 }
   ],
-  "overrides": [{
-    "predicate": { "tconstruct:charging": 2 },
-    "model": "tinkers_katanas:item/blocking/katana"
-  }]
+  "overrides": [
+	{
+	  "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_katanas:item/katana/blocking"
+	},
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_katanas:item/katana/broken"
+    }
+  ]
 }

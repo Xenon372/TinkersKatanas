@@ -6,13 +6,13 @@
     { "path": "tinkers_katanas:item/tool/katana/bottom_blade",        "statType": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/katana/broken_bottom_blade", "statType": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/katana/handle",       "statType": "tconstruct:handle" },
-    { "path": "tinkers_katanas:item/tool/katana/guard",         "statType": "tconstruct:extra" },
+    { "path": "tinkers_katanas:item/tool/katana/guard",         "statType": "tconstruct:handle" },
     
     { "path": "tinkers_katanas:item/tool/katana/large/top_blade",        "statType": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/katana/large/broken_top_blade", "statType": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/katana/large/bottom_blade",        "statType": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/katana/large/broken_bottom_blade", "statType": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/katana/large/handle",       "statType": "tconstruct:handle" },
-    { "path": "tinkers_katanas:item/tool/katana/large/guard",         "statType": "tconstruct:extra" }
+    { "path": "tinkers_katanas:item/tool/katana/large/guard",         "statType": "tconstruct:handle" }
   ]
 }
