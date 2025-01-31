@@ -10,27 +10,27 @@
   "sortIndex": 9,
   "input_slots": [
     {
-      "icon": "tconstruct:broad_blade",
-      "translation_key": "item.tconstruct.broad_blade",
+      "icon": "tconstruct:small_blade",
+      "translation_key": "item.tconstruct.small_blade",
       "x": 45,
       "y": 26,
       "filter": {
-        "item": "tconstruct:broad_blade"
+        "item": "tconstruct:small_blade"
       }
     },
     {
-      "icon": "tconstruct:round_plate",
-      "translation_key": "item.tconstruct.round_plate",
-      "x": 7,
-      "y": 62,
+      "icon": "tconstruct:small_blade",
+      "translation_key": "item.tconstruct.small_blade",
+      "x": 25,
+      "y": 46,
       "filter": {
-        "item": "tconstruct:round_plate"
+        "item": "tconstruct:small_blade"
       }
     },
     {
       "icon": "tconstruct:tool_handle",
       "translation_key": "item.tconstruct.tool_handle",
-      "x": 25,
+      "x": 45,
       "y": 46,
       "filter": {
         "item": "tconstruct:tool_handle"
@@ -39,8 +39,8 @@
     {
       "icon": "tconstruct:tough_handle",
       "translation_key": "item.tconstruct.tough_handle",
-      "x": 45,
-      "y": 46,
+      "x": 7,
+      "y": 62,
       "filter": {
         "item": "tconstruct:tough_handle"
       }
