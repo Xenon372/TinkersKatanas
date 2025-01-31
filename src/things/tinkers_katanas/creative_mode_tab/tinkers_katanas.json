@@ -1,3 +1,4 @@
 {
-  "icon": "tinkers_katanas:katana"
+  "icon": "tinkers_katanas:katana",
+    "translation_key": "itemGroup.tinkers_katanas.tinkers_katanas"
 }
