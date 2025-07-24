@@ -21,14 +21,13 @@
   {
     "type": "tconstruct:base_stats",
     "stats": {
-      "tconstruct:attack_damage": 2.0,
+      "tconstruct:attack_damage": 3.0,
       "tconstruct:attack_speed": 1.8
     }
   },
   {
     "type": "tconstruct:multiply_stats",
     "multipliers": {
-      "tconstruct:attack_damage": 0.95,
       "tconstruct:durability": 1.15,
 	  "tconstruct:mining_speed": 0.25
     }
