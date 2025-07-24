@@ -4,8 +4,7 @@
     { "text": "The Katana is a fast weapon designed for sweeping attacks against multiple opponents." }
   ],
   "properties": [
-    "+2 Attack Damage",
-    "95% Attack Modifier",
+    "+3 Attack Damage",
     "1.8 Attack Speed",
     "115% Durability",
     "Sweeping"
