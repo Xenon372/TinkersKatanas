@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_katanas:katana",
+  "text": [
+    { "text": "剑的更酷版本。" }
+  ],
+  "properties": [
+    "横扫攻击",
+    "中等攻击速度，较低伤害",
+    "看着帅呆了"
+  ]
+}
