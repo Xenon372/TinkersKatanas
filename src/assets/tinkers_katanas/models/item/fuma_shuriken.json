@@ -1,0 +1,37 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "blades_forward":  "tinkers_katanas:item/tool/fuma_shuriken/blades_forward",
+    "blades_rear":  "tinkers_katanas:item/tool/fuma_shuriken/blades_rear",
+    "ring":  "tinkers_katanas:item/tool/fuma_shuriken/ring",
+    "grip":  "tinkers_katanas:item/tool/fuma_shuriken/grip",
+    
+    "large_blades_forward":  "tinkers_katanas:item/tool/fuma_shuriken/large/blades_forward",
+    "large_blades_rear":  "tinkers_katanas:item/tool/fuma_shuriken/large/blades_rear",
+    "large_ring":  "tinkers_katanas:item/tool/fuma_shuriken/large/ring",
+    "large_grip":  "tinkers_katanas:item/tool/fuma_shuriken/large/grip"
+  },
+  "modifier_roots": {
+	  "small": [ "tinkers_katanas:item/tool/fuma_shuriken/modifiers/" ],
+	  "large": [ "tinkers_katanas:item/tool/fuma_shuriken/large/modifiers/" ]
+  },
+  "large": true,
+  "large_offset": [2, 3],
+  "parts": [
+    { "name": "blades_forward",   "index": 0 },
+    { "name": "blades_rear", "index": 1 },
+    { "name": "ring",  "index": 2 },
+    { "name": "grip", "index": 3 }
+  ],
+  "overrides": [
+	{
+	  "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_katanas:item/fuma_shuriken/blocking"
+	},
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_katanas:item/fuma_shuriken/broken"
+    }
+  ]
+}

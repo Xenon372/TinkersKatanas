@@ -13,6 +13,20 @@
     { "path": "tinkers_katanas:item/tool/katana/large/bottom_blade",        "stat_type": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/katana/large/broken_bottom_blade", "stat_type": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/katana/large/handle",       "stat_type": "tconstruct:handle" },
-    { "path": "tinkers_katanas:item/tool/katana/large/guard",         "stat_type": "tconstruct:handle" }
+    { "path": "tinkers_katanas:item/tool/katana/large/guard",         "stat_type": "tconstruct:handle" },
+	
+	{ "path": "tinkers_katanas:item/tool/fuma_shuriken/blades_forward",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/blades_forward_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/blades_rear",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/blades_rear_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/grip",       "stat_type": "tconstruct:handle" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/ring",         "stat_type": "tconstruct:limb" },
+    
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/large/blades_forward",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/large/blades_forward_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/large/blades_rear",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/large/blades_rear_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/large/grip",       "stat_type": "tconstruct:handle" },
+    { "path": "tinkers_katanas:item/tool/fuma_shuriken/large/ring",         "stat_type": "tconstruct:limb" }
   ]
 }
