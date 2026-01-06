@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:hover",
+  "text": [
+    {
+      "text": "The shuriken ignores gravity for the first second after being thrown."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}

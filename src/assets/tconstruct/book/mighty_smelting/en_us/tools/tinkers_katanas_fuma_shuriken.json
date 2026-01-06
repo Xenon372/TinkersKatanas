@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_katanas:fuma_shuriken",
+  "text": [
+    { "text": "A massive shuriken. Bigger is always better, right?" }
+  ],
+  "properties": [
+    "Comes back to you when thrown",
+    "Moderate speed, low damage",
+    "Looks really cool"
+  ]
+}

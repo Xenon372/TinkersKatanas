@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_katanas:fuma_shuriken",
+  "text": [
+    { "text": "The Fuma Shuriken is a large throwing weapon designed for dispatching foes at a distance." }
+  ],
+  "properties": [
+    "+2 Attack Damage",
+    "90% Attack Modifier",
+    "75% Durability",
+    "1.3 Attack Speed",
+    "Throwing",
+	"Returning II"
+  ]
+}
