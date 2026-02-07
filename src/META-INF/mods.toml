@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/Xenon372/TinkersKatanas/issues"
 license="MIT"
 [[mods]]
     modId="tinkers_katanas"
-    version="1.4.0"
+    version="1.4.1"
     displayName="Tinkers' Katanas"
     description='''
     A Thing Pack for Tinkers' Construct.
@@ -21,3 +21,4 @@ license="MIT"
     versionRange="[0.9.9,)"
     ordering="NONE"
     side="BOTH"
+
