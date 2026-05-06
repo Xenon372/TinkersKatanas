@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tconstruct:hover",
+  "text": [
+    {
+      "text": "手里剑在扔出后的第一秒内不受重力影响。"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "最高1级",
+    "需要1个能力槽"
+  ]
+}
