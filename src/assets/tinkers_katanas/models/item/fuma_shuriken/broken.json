@@ -1,0 +1,23 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "blades_forward":  "tinkers_katanas:item/tool/fuma_shuriken/blades_forward_broken",
+    "blades_rear":  "tinkers_katanas:item/tool/fuma_shuriken/blades_rear_broken",
+    "ring":  "tinkers_katanas:item/tool/fuma_shuriken/ring",
+    "grip":  "tinkers_katanas:item/tool/fuma_shuriken/grip",
+    
+    "large_blades_forward":  "tinkers_katanas:item/tool/fuma_shuriken/large/blades_forward_broken",
+    "large_blades_rear":  "tinkers_katanas:item/tool/fuma_shuriken/large/blades_rear_broken",
+    "large_ring":  "tinkers_katanas:item/tool/fuma_shuriken/large/ring",
+    "large_grip":  "tinkers_katanas:item/tool/fuma_shuriken/large/grip"
+  },
+  "large": true,
+  "large_offset": [2, 3],
+  "parts": [
+    { "name": "blades_forward",   "index": 0 },
+    { "name": "blades_rear", "index": 1 },
+    { "name": "ring",  "index": 2 },
+    { "name": "grip", "index": 3 }
+  ]
+}
