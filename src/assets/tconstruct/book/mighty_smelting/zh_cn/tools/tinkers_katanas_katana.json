@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "tool": "tinkers_katanas:katana",
   "text": [
@@ -9,3 +10,16 @@
     "看着帅呆了"
   ]
 }
+=======
+{
+  "tool": "tinkers_katanas:katana",
+  "text": [
+    { "text": "剑的更酷版本。" }
+  ],
+  "properties": [
+    "横扫攻击",
+    "中等攻击速度，较低伤害",
+    "看着帅呆了"
+  ]
+}
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "modifier_id": "tconstruct:hover",
   "text": [
@@ -12,3 +13,19 @@
     "Requires 1 ability slot"
   ]
 }
+=======
+{
+  "modifier_id": "tconstruct:hover",
+  "text": [
+    {
+      "text": "What goes up..."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Shuriken ignores gravity for a little while once thrown",
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ]
+}
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a

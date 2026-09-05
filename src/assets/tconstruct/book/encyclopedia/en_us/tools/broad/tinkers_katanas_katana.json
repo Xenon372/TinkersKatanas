@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "tool": "tinkers_katanas:katana",
   "text": [
@@ -11,3 +12,18 @@
     "Sweeping"
   ]
 }
+=======
+{
+  "tool": "tinkers_katanas:katana",
+  "text": [
+    { "text": "The Katana is a fast weapon designed for sweeping attacks against multiple opponents." }
+  ],
+  "properties": [
+    "+1 Attack Damage",
+    "75% Attack Modifier",
+    "1.8 Attack Speed",
+    "115% Durability",
+    "Sweeping"
+  ]
+}
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a

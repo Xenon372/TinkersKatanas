@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 {
   "replace": false,
   "values": [
     "tinkers_katanas:katana"
   ]
+=======
+{
+  "replace": false,
+  "values": [
+    "tinkers_katanas:katana"
+  ]
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a
 }

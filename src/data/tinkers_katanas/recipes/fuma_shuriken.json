@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 {
   "type": "tconstruct:tool_building",
   "result": "tinkers_katanas:fuma_shuriken"
+=======
+{
+  "type": "tconstruct:tool_building",
+  "result": "tinkers_katanas:fuma_shuriken"
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a
 }

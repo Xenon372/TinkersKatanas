@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "tool": "tinkers_katanas:katana",
   "text": [
@@ -11,3 +12,18 @@
     "横扫之刃 II"
   ]
 }
+=======
+{
+  "tool": "tinkers_katanas:katana",
+  "text": [
+    { "text": "武士刀是一种高攻速武器，专为横扫攻击一群对手而制造。" }
+  ],
+  "properties": [
+    "+3 攻击力",
+    "80% 攻击系数",
+    "1.8 攻击速度",
+    "115% 耐久系数",
+    "横扫之刃 II"
+  ]
+}
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a

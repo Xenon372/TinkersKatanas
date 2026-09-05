@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
     "pack": {
         "description": "Tinkers' Katanas Resources",
         "pack_format": 8
     }
 }
+=======
+{
+    "pack": {
+        "description": "Tinkers' Katanas Resources",
+        "pack_format": 8
+    }
+}
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a

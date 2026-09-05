@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 modLoader="lowcodefml"
 loaderVersion="*"
 issueTrackerURL="https://github.com/Xenon372/TinkersKatanas/issues"
@@ -21,3 +22,31 @@ license="MIT"
     versionRange="[0.9.9,)"
     ordering="NONE"
     side="BOTH"
+=======
+modLoader="lowcodefml"
+loaderVersion="*"
+issueTrackerURL="https://github.com/Xenon372/TinkersKatanas/issues"
+license="MIT"
+[[mods]]
+    modId="tinkers_katanas"
+    version="1.4.5"
+    displayName="Tinkers' Katanas"
+    description='''
+    A Thing Pack for Tinkers' Construct.
+    '''
+[[dependencies.tinkers_katanas]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3.10.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tinkers_katanas]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="[0.9.9,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a

@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
   "type": "tconstruct:tool",
   "break_blocks_in_creative": false,
   "max_stack_size": 1,
   "group": "tinkers_katanas:tinkers_katanas",
   "color_handler": "tconstruct:tool"
+=======
+{
+  "type": "tconstruct:tool",
+  "break_blocks_in_creative": false,
+  "max_stack_size": 1,
+  "group": "tinkers_katanas:tinkers_katanas",
+  "color_handler": "tconstruct:tool"
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a
 }

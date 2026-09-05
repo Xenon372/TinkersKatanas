@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Created-By: 17.0.5 (Eclipse Adoptium)
 
+=======
+Manifest-Version: 1.0
+Created-By: 17.0.5 (Eclipse Adoptium)
+
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "replace": false,
   "values": [
@@ -5,3 +6,12 @@
     "tinkers_katanas:fuma_shuriken"
   ]
 }
+=======
+{
+  "replace": false,
+  "values": [
+    "tinkers_katanas:katana",
+    "tinkers_katanas:fuma_shuriken"
+  ]
+}
+>>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a
