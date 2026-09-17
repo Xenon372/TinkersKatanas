@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 {
   "icon": "tinkers_katanas:katana",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": [ "tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra", "tconstruct:ui_render#large" ]
+    },
     "translation_key": "itemGroup.tinkers_katanas.tinkers_katanas"
-=======
-{
-  "icon": "tinkers_katanas:katana",
-    "translation_key": "itemGroup.tinkers_katanas.tinkers_katanas"
->>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a
 }

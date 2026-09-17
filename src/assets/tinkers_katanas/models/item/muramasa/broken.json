@@ -1,0 +1,37 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "blade":  "tinkers_katanas:item/tool/muramasa/broken_blade",
+    "spine":  "tinkers_katanas:item/tool/muramasa/broken_spine",
+    "guard":  "tinkers_katanas:item/tool/muramasa/guard",
+    "handle":  "tinkers_katanas:item/tool/muramasa/handle",
+    
+    "large_blade":  "tinkers_katanas:item/tool/muramasa/large/broken_blade",
+    "large_spine":  "tinkers_katanas:item/tool/muramasa/large/broken_spine",
+    "large_guard":  "tinkers_katanas:item/tool/muramasa/large/guard",
+    "large_handle":  "tinkers_katanas:item/tool/muramasa/large/handle"
+  },
+  "modifier_roots": {
+	  "small": [ "tinkers_katanas:item/tool/muramasa/modifiers/" ],
+	  "large": [ "tinkers_katanas:item/tool/muramasa/large/modifiers/" ]
+  },
+  "large": true,
+  "large_offset": [2, 0],
+  "parts": [
+    { "name": "blade",   "index": 0 },
+    { "name": "spine", "index": 1 },
+    { "name": "guard",  "index": 2 },
+    { "name": "handle", "index": 3 }
+  ],
+  "overrides": [
+	{
+	  "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_katanas:item/muramasa/blocking"
+	},
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_katanas:item/muramasa/broken"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_katanas:muramasa",
+  "text": [
+    { "text": "The Muramasa is a sinister katana forged by a legendary bladesmith. It harbors an insatiable lust for blood. It can be found in ancient cities." }
+  ],
+  "properties": [
+    "Bloodlust",
+    "Sweeping attacks",
+    "Moderate speed, medium damage",
+    "Looks even cooler than a regular katana",
+    "2 Upgrade Slots",
+    "1 Ability Slot"
+  ]
+}

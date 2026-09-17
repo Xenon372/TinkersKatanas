@@ -1,0 +1,45 @@
+{
+  "level_display": "tconstruct:single_level",
+  "modules": [
+	{
+      "type": "tconstruct:conditional_melee_damage",
+      "target": {
+        "type": "mantle:has_effect",
+        "effect": "tconstruct:bleeding"
+      },
+      "formula": [
+        "$bleeding",
+        1.5,
+        "+",
+        "$multiplier",
+        "*",
+        "$damage",
+        "+"
+      ],
+      "variables": {
+        "bleeding": {
+          "type": "tconstruct:entity",
+          "effect": "tconstruct:bleeding",
+          "entity_type": "tconstruct:effect_level",
+          "fallback": 0.0,
+          "which": "target"
+        }
+      },
+      "percent": false
+    },
+    {
+      "type": "tconstruct:lifesteal",
+      "target": {
+        "type": "mantle:has_effect",
+        "effect": "tconstruct:bleeding"
+      },
+      "durability_usage": {
+        "flat": 1
+      },
+      "percentage": {
+        "flat": 0.15
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

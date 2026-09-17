@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_katanas:muramasa",
+  "text": [
+    { "text": "The Muramasa is a sinister katana forged by a legendary bladesmith. It generates charges when the user gets hit, which are then used to boost attack damage. It can be found in ancient cities." }
+  ],
+  "properties": [
+    "+3 Attack Damage",
+    "130% Attack Modifier",
+    "1.5 Attack Speed",
+    "165% Durability",
+    "Sweeping Edge II",
+    "Bloodlust"
+  ]
+}

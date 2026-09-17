@@ -1,0 +1,46 @@
+{
+  "level_display": "tconstruct:single_level",
+  "modules": [
+    {
+      "type": "tconstruct:capacity_bar",
+      "flat": 50
+    },
+    {
+      "type": "tconstruct:damage_to_capacity",
+      "multiplier": {
+        "flat": 0.1
+      },
+      "reduce_damage": false,
+      "source": "mantle:can_protect"
+    },
+    {
+      "type": "tconstruct:melee_capacity",
+      "grant": {
+        "flat": -2
+      }
+    },
+    {
+      "type": "tconstruct:conditional_melee_damage",
+      "formula": [
+        0.2,
+		"$charge",
+        50,
+        "/",
+		"*",
+		1.0,
+		"+",
+		"$damage",
+		"*"
+      ],
+      "percent": true,
+      "variables": {
+        "charge": {
+          "type": "tconstruct:mod_data",
+          "key": "tinkers_katanas:bloodlust",
+          "source": "persistent"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

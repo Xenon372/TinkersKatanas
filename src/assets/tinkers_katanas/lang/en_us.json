@@ -1,20 +1,17 @@
-<<<<<<< HEAD
 {
   "itemGroup.tinkers_katanas.tinkers_katanas": "Tinkers' Katanas",
   
   "item.tinkers_katanas.katana": "Katana",
-  "item.tinkers_katanas.fuma_shuriken": "Fuma Shuriken",
-  
   "item.tinkers_katanas.katana.description": "The Katana is a single-edged blade designed for sweeping attacks against a group of opponents.",
-  "item.tinkers_katanas.fuma_shuriken.description": "The Fuma Shuriken is a large throwing weapon designed for dispatching foes at a distance."
-=======
-{
-  "itemGroup.tinkers_katanas.tinkers_katanas": "Tinkers' Katanas",
   
-  "item.tinkers_katanas.katana": "Katana",
   "item.tinkers_katanas.fuma_shuriken": "Fuma Shuriken",
+  "item.tinkers_katanas.fuma_shuriken.description": "The Fuma Shuriken is a large throwing weapon designed for dispatching foes at a distance.",
   
-  "item.tinkers_katanas.katana.description": "The Katana is a single-edged blade designed for sweeping attacks against a group of opponents.",
-  "item.tinkers_katanas.fuma_shuriken.description": "The Fuma Shuriken is a large throwing weapon designed for dispatching foes at a distance."
->>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a
+  "item.tinkers_katanas.muramasa": "Muramasa",
+  "item.tinkers_katanas.muramasa.description": "The Muramasa is a sinister katana forged by a legendary bladesmith. It harbors an insatiable lust for blood.",
+  "modifier.tinkers_katanas.bloodlust": "Bloodlust",
+  "modifier.tinkers_katanas.bloodlust.flavor": "Blood is fuel",
+  "modifier.tinkers_katanas.bloodlust.description": "Taking hits makes you deal more and more damage",
+  "modifier.tinkers_katanas.bloodlust.encyclopedia": "Taking damage fills a capacity bar, which boosts attack damage by up to 20% at full charge",
+  "modifier.tinkers_katanas.bloodlust.attack_damage": "Bloodlust Damage"
 }

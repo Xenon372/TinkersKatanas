@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 {
   "replace": false,
   "values": [
-    "tinkers_katanas:katana"
+    "tinkers_katanas:katana",
+    "tinkers_katanas:muramasa"
   ]
-=======
-{
-  "replace": false,
-  "values": [
-    "tinkers_katanas:katana"
-  ]
->>>>>>> 791d3dceff827b75b67873c4b4925e8c01cd541a
 }
