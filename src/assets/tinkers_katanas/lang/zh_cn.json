@@ -2,5 +2,16 @@
   "itemGroup.tinkers_katanas.tinkers_katanas": "匠魂武士刀",
   
   "item.tinkers_katanas.katana": "武士刀",
-  "item.tinkers_katanas.katana.description": "武士刀是一种单刃的刀，专为横扫攻击一群对手而制造。"
+  "item.tinkers_katanas.katana.description": "武士刀是一种单刃刀，专为横扫攻击一群对手而锻造。",
+
+  "item.tinkers_katanas.fuma_shuriken": "风魔手里剑",
+  "item.tinkers_katanas.fuma_shuriken.description": "风魔手里剑是一种大型投掷武器，专门用于远距离消灭敌人。",
+  
+  "item.tinkers_katanas.muramasa": "妖刀·村正",
+  "item.tinkers_katanas.muramasa.description": "妖刀·村正是一位传奇刀匠锻造出的邪恶武士刀。它渴望鲜血，却不得偿饥。",
+  "modifier.tinkers_katanas.bloodlust": "嗜血",
+  "modifier.tinkers_katanas.bloodlust.flavor": "鲜血即燃料",
+  "modifier.tinkers_katanas.bloodlust.description": "受伤使你造成更多伤害",
+  "modifier.tinkers_katanas.bloodlust.encyclopedia": "受到伤害时产生能量，能量满时可将攻击伤害提升至最高20%",
+  "modifier.tinkers_katanas.bloodlust.attack_damage": "嗜血伤害"
 }

@@ -1,7 +1,7 @@
 {
   "tool": "tinkers_katanas:fuma_shuriken",
   "text": [
-    { "text": "一把巨型手里剑。更大通常意味着更好，对吧？" }
+    { "text": "一把巨型手里剑。更大通常意味着更好，是不？" }
   ],
   "properties": [
     "投掷后会返回手中",
