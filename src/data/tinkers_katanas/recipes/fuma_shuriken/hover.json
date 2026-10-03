@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "item": "minecraft:end_rod" },
+    { "item": "minecraft:shulker_shell" },
+    { "item": "minecraft:end_rod" }
+  ],
+  "tools": { "item": "tinkers_katanas:fuma_shuriken" },
+  "allow_crystal": true,
+  "result": "tconstruct:hover",
+  "level": { "max": 1 },
+  "slots": { "abilities": 1 }
+}

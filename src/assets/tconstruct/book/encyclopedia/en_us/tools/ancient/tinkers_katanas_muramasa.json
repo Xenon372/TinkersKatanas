@@ -1,14 +1,16 @@
 {
   "tool": "tinkers_katanas:muramasa",
   "text": [
-    { "text": "The Muramasa is a sinister katana forged by a legendary bladesmith. It generates charges when the user gets hit, which are then used to boost attack damage. It can be found in ancient cities." }
+    { "text": "The Muramasa is a sinister katana that generates charges when the wielder gets hit, which are then used to boost attack damage. It can be found in ancient cities." },
+    { "text": "\n" },
+    { "text": "Expanders increase the area of the sweep attack, while Silky grants AOE shearing." }
   ],
   "properties": [
-    "+3 Attack Damage",
-    "130% Attack Modifier",
-    "1.5 Attack Speed",
-    "165% Durability",
-    "Sweeping Edge II",
+    "+2 Attack Damage",
+    "120% Attack Modifier",
+    "1.3 Attack Speed",
+    "145% Durability",
+    "Sweeping Edge I",
     "Bloodlust"
   ]
 }

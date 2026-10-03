@@ -1,12 +1,14 @@
 {
   "tool": "tinkers_katanas:katana",
   "text": [
-    { "text": "The Katana is a fast weapon designed for sweeping attacks against multiple opponents." }
+    { "text": "The Katana is a fast weapon designed for sweeping attacks against multiple opponents." },
+    { "text": "\n" },
+    { "text": "Expanders increase the area of the sweep attack, while Silky grants AOE shearing." }
   ],
   "properties": [
-    "+3 Attack Damage",
-    "95% Attack Modifier",
-    "1.6 Attack Speed",
+    "+2.5 Attack Damage",
+    "90% Attack Modifier",
+    "1.8 Attack Speed",
     "120% Durability",
     "Sweeping Edge II"
   ]
