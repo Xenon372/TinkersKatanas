@@ -6,5 +6,11 @@
 		  "tic_materials": [ "tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra", "tconstruct:ui_render#large" ]
 	  }
     },
-    "translation_key": "itemGroup.tinkers_katanas.tinkers_katanas"
+    "translation_key": "itemGroup.tinkers_katanas.tinkers_katanas",
+	"items": [
+		"tinkers_katanas:katana",
+		"tinkers_katanas:fuma_shuriken",
+		"tinkers_katanas:muramasa",
+		"tinkers_katanas:naginata"
+	]
 }

@@ -1,0 +1,14 @@
+{
+  "level_display": "tconstruct:single_level",
+  "modules": [
+    {
+      "type": "tconstruct:attribute",
+      "unique": "tinkers_katanas.modifier.long_reach",
+      "attribute": "forge:attack_range",
+      "operation": "addition",
+      "each_level": 1.0,
+      "slots": [ "mainhand", "offhand" ]
+    }
+  ],
+  "show_in_tooltips": "always"
+}

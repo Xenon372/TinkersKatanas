@@ -1,6 +1,6 @@
 {
   "loader": "tconstruct:tool",
-  "parent": "forge:item/default-tool",
+  "parent": "tconstruct:item/base/tall",
   "textures": {
     "blade":  "tinkers_katanas:item/tool/muramasa/blade",
     "spine":  "tinkers_katanas:item/tool/muramasa/spine",

@@ -1,0 +1,13 @@
+{
+  "tool": "tinkers_katanas:naginata",
+  "text": [
+    { "text": "What happens when you put a katana on a stick?" }
+  ],
+  "properties": [
+    "Reach weapon",
+    "Sweeping attacks",
+    "Medium Damage",
+    "Medium Speed",
+    "Looks really cool"
+  ]
+}

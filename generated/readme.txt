@@ -1,0 +1,1 @@
+All generated textures exist inside of assets using the generate command.

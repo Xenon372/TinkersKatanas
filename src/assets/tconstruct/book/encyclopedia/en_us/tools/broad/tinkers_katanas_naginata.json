@@ -1,0 +1,16 @@
+{
+  "tool": "tinkers_katanas:naginata",
+  "text": [
+    { "text": "The Naginata is a long polearm designed for keeping a group of opponents at bay from a distance." },
+    { "text": "\n" },
+    { "text": "Expanders increase the area of the sweep attack." }
+  ],
+  "properties": [
+    "+2 Attack Damage",
+    "105% Attack Modifier",
+    "1.2 Attack Speed",
+    "115% Durability",
+    "Sweeping Edge I",
+    "Long Reach"
+  ]
+}

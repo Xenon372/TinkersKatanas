@@ -41,6 +41,20 @@
     { "path": "tinkers_katanas:item/tool/muramasa/large/spine",        "stat_type": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/muramasa/large/broken_spine", "stat_type": "tconstruct:head" },
     { "path": "tinkers_katanas:item/tool/muramasa/large/guard",         "stat_type": "tconstruct:binding" },
-    { "path": "tinkers_katanas:item/tool/muramasa/large/handle",       "stat_type": "tconstruct:handle" }
+    { "path": "tinkers_katanas:item/tool/muramasa/large/handle",       "stat_type": "tconstruct:handle" },
+
+    { "path": "tinkers_katanas:item/tool/naginata/blade",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/naginata/blade_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/naginata/plate",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/naginata/plate_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/naginata/guard",         "stat_type": "tconstruct:handle" },
+    { "path": "tinkers_katanas:item/tool/naginata/handle",       "stat_type": "tconstruct:handle" },
+
+    { "path": "tinkers_katanas:item/tool/naginata/large/blade",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/naginata/large/blade_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/naginata/large/plate",        "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/naginata/large/plate_broken", "stat_type": "tconstruct:head" },
+    { "path": "tinkers_katanas:item/tool/naginata/large/guard",         "stat_type": "tconstruct:handle" },
+    { "path": "tinkers_katanas:item/tool/naginata/large/handle",       "stat_type": "tconstruct:handle" }
   ]
 }

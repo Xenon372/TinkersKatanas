@@ -1,6 +1,6 @@
 {
   "loader": "tconstruct:tool",
-  "parent": "forge:item/default-tool",
+  "parent": "tconstruct:item/base/tall",
   "textures": {
     "top_blade":  "tinkers_katanas:item/tool/katana/top_blade",
     "bottom_blade":  "tinkers_katanas:item/tool/katana/bottom_blade",
