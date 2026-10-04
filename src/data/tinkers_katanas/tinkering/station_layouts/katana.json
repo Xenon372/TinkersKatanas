@@ -21,7 +21,7 @@
     {
       "icon": "tconstruct:small_blade",
       "translation_key": "item.tconstruct.small_blade",
-      "x": 25,
+      "x": 45,
       "y": 46,
       "filter": {
         "item": "tconstruct:small_blade"
@@ -30,7 +30,7 @@
     {
       "icon": "tconstruct:tool_handle",
       "translation_key": "item.tconstruct.tool_handle",
-      "x": 45,
+      "x": 25,
       "y": 46,
       "filter": {
         "item": "tconstruct:tool_handle"
