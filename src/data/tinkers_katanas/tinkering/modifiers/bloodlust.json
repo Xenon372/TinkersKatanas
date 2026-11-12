@@ -3,12 +3,12 @@
   "modules": [
     {
       "type": "tconstruct:capacity_bar",
-      "flat": 50
+      "flat": 30
     },
     {
       "type": "tconstruct:damage_to_capacity",
       "multiplier": {
-        "flat": 0.1
+        "flat": 0.2
       },
       "reduce_damage": false,
       "source": "mantle:can_protect"
@@ -16,7 +16,7 @@
     {
       "type": "tconstruct:melee_capacity",
       "grant": {
-        "flat": -2
+        "flat": -1
       }
     },
     {
@@ -24,7 +24,7 @@
       "formula": [
         0.2,
 		"$charge",
-        50,
+        30,
         "/",
 		"*",
 		1.0,

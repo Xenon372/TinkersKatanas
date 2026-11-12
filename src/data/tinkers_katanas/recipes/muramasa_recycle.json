@@ -1,15 +1,52 @@
 {
-  "type": "tconstruct:part_builder_tool_recycling",
-  "parts": [
-    "tconstruct:broad_blade",
-    "tconstruct:small_blade",
-    "tconstruct:tough_binding",
-    "tconstruct:tough_handle"
-  ],
-  "pattern": {
-    "item": "tconstruct:venom_bottle"
-  },
-  "tools": {
-    "item": "tinkers_katanas:muramasa"
-  }
+    "type": "forge:conditional",
+    "recipes": [
+        {
+            "conditions": [
+                {
+                    "type": "forge:not",
+                    "value": {
+                        "type": "forge:item_exists",
+                        "item": "construct_arsenal:curved_blade"
+                    }
+                }
+            ],
+            "recipe": {
+                "type": "tconstruct:part_builder_tool_recycling",
+                "parts": [
+                    "tconstruct:broad_blade",
+                    "tconstruct:small_blade",
+                    "tconstruct:tough_binding",
+                    "tconstruct:tough_handle"
+                ],
+                "pattern": {
+                    "item": "tconstruct:venom_bottle"
+                },
+                "tools": {
+                    "item": "tinkers_katanas:muramasa"
+                }
+            }
+        },
+        {
+            "conditions": [
+                {
+                    "type": "forge:item_exists",
+                    "item": "construct_arsenal:curved_blade"
+                }
+            ],
+            "type": "tconstruct:part_builder_tool_recycling",
+            "parts": [
+                "tconstruct:broad_blade",
+                "construct_arsenal:curved_blade",
+                "tconstruct:tough_binding",
+                "tconstruct:tough_handle"
+            ],
+            "pattern": {
+                "item": "tconstruct:venom_bottle"
+            },
+            "tools": {
+                "item": "tinkers_katanas:muramasa"
+            }
+        }
+    ]
 }

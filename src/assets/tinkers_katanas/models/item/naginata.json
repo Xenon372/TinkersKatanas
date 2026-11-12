@@ -1,0 +1,45 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tconstruct:item/base/tall",
+  "textures": {
+    "blade":  "tinkers_katanas:item/tool/naginata/blade",
+    "plate":  "tinkers_katanas:item/tool/naginata/plate",
+    "guard":  "tinkers_katanas:item/tool/naginata/guard",
+    "handle":  "tinkers_katanas:item/tool/naginata/handle",
+    
+    "large_blade":  "tinkers_katanas:item/tool/naginata/large/blade",
+    "large_plate":  "tinkers_katanas:item/tool/naginata/large/plate",
+    "large_guard":  "tinkers_katanas:item/tool/naginata/large/guard",
+    "large_handle":  "tinkers_katanas:item/tool/naginata/large/handle"
+  },
+  "modifier_roots": {
+	  "small": [ "tinkers_katanas:item/tool/naginata/modifiers/" ],
+	  "large": [ "tinkers_katanas:item/tool/naginata/large/modifiers/" ]
+  },
+  "large": true,
+  "large_offset": [-2, 2],
+  "parts": [
+    { "name": "blade",   "index": 0 },
+    { "name": "plate", "index": 1 },
+    { "name": "guard",  "index": 2 },
+    { "name": "handle", "index": 3 }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.01 },
+      "model": "tinkers_katanas:item/naginata/pulling"
+    },
+	{
+	  "predicate": { "tconstruct:charging": 1.75 },
+      "model": "tinkers_katanas:item/naginata/throwing"
+	},
+	{
+	  "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_katanas:item/naginata/blocking"
+	},
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_katanas:item/naginata/broken"
+    }
+  ]
+}

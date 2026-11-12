@@ -13,5 +13,11 @@
   "modifier.tinkers_katanas.bloodlust.flavor": "Blood is fuel",
   "modifier.tinkers_katanas.bloodlust.description": "Taking hits makes you deal more and more damage",
   "modifier.tinkers_katanas.bloodlust.encyclopedia": "Taking damage fills a capacity bar, which boosts attack damage by up to 20% at full charge",
-  "modifier.tinkers_katanas.bloodlust.attack_damage": "Bloodlust Damage"
+  "modifier.tinkers_katanas.bloodlust.attack_damage": "Bloodlust Damage",
+
+  "item.tinkers_katanas.naginata": "Naginata",
+  "item.tinkers_katanas.naginata.description": "The Naginata is a long polearm designed for keeping a group of opponents at bay from a distance.",
+  "modifier.tinkers_katanas.long_reach": "Long Reach",
+  "modifier.tinkers_katanas.long_reach.flavor": "Extra long handle",
+  "modifier.tinkers_katanas.long_reach.description": "Tool is extra long, allowing attacking far away monsters"
 }
