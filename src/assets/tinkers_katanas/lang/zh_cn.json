@@ -14,4 +14,10 @@
   "modifier.tinkers_katanas.bloodlust.description": "受伤使你造成更多伤害",
   "modifier.tinkers_katanas.bloodlust.encyclopedia": "受到伤害时产生能量，能量满时可将攻击伤害提升至最高20%",
   "modifier.tinkers_katanas.bloodlust.attack_damage": "嗜血伤害"
+  
+  "item.tinkers_katanas.naginata": "薙刀",
+  "item.tinkers_katanas.naginata.description": "薙刀是一种长柄武器，战斗时可以与敌人保持距离，避免被围攻。",
+  "modifier.tinkers_katanas.long_reach": "长距",
+  "modifier.tinkers_katanas.long_reach.flavor": "超长手柄",
+  "modifier.tinkers_katanas.long_reach.description": "这个工具特别长，可以攻击远处的怪物"
 }
